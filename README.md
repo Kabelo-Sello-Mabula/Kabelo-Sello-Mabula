@@ -15,11 +15,9 @@ My proficiency spans across a range of technologies including,
 ✅Blazor <br />
 ✅MS SQL <br />
 ✅MySql <br />
-✅Firebase <br />
 ✅PL SQL <br />
 ✅Razor Pages <br />
 ✅MVC <br />
-✅Flutter <br />
 ✅Asp.Net Core Web Api <br />
 ✅Dot Net Maui <br />
 ✅Dot Net Maui Blazor <br />
