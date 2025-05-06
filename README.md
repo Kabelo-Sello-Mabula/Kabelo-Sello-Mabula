@@ -6,4 +6,5 @@ By day, I build clean, scalable software. By night… well, I still build softwa
 I speak fluent JavaScript, C#, and sarcasm. I believe in clean code, strong coffee, and shipping features that don’t break everything (just some things).  <br />
 
 📫 Got an idea, a project, or just want to swap memes about semicolons? Let’s chat — I promise I’m more fun than a failing deployment.  <br />
+
 🚀 Happy coding, and may your commits always be clean!
