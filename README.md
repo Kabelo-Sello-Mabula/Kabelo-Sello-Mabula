@@ -1,8 +1,9 @@
-👋 Hello there! I'm Kabelo Mabula, a passionate software developer fueled by curiosity and driven by a quest for excellence.
-With a solid foundation in computer science and years of hands-on experience, I craft elegant solutions to complex problems.I'm also a 
-fintech software developer on a mission to revolutionize the finance industry through innovative technology solutions.
-With a solid background in both finance and software development, I bring a unique perspective to the table.
 
+ 👋 Hey there! I’m Kabelo Mabula — part-time software developer, part-time code whisperer, and full-time coffee enthusiast. I write code that (usually) works and debug like a detective solving a digital mystery.  <br />
 
-📫 Interested in collaborating or have an exciting project in mind? Feel free to reach out! Let's connect and create something extraordinary together. <br />
-🚀 Happy coding! 
+By day, I build clean, scalable software. By night… well, I still build software (because bugs don’t sleep). With a background in computer science and a passion for fintech, I’m on a mission to make financial systems smarter, faster, and a little less boring.  <br />
+
+I speak fluent JavaScript, C#, and sarcasm. I believe in clean code, strong coffee, and shipping features that don’t break everything (just some things).  <br />
+
+📫 Got an idea, a project, or just want to swap memes about semicolons? Let’s chat — I promise I’m more fun than a failing deployment.  <br />
+🚀 Happy coding, and may your commits always be clean!
